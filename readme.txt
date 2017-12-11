@@ -1,0 +1,1 @@
+=== Check active plugins on mulisite  ===
